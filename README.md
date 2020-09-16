@@ -1,3 +1,3 @@
 # Conference Talks
 
-* KKON 2020
+* [KKON 2020](https://github.com/hauer-io/talks/tree/master/2020_KKON)
